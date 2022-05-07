@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @photonzero
+- 👀 I’m interested in electronics, computing, nature, science in general and I own a little too many Legos.
+- 🌱 I’m currently learning Python and AWS - apparently I like overly complex things.
+- 💞️ I’m looking to collaborate on projects than can benefit society.
+- 📫 I'm on LinkedIn user: photon0. You can also reach my by email on gmail (same user as linkedin).
